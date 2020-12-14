@@ -1,0 +1,58 @@
+html{
+    background-image:url(https://get.pxhere.com/photo/light-road-street-night-morning-rain-evening-weather-darkness-lane-infrastructure-road-surface-38478.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+                   
+.visit{
+  margin-left: 535px;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  margin-top: 30px;
+  text-align: center;            
+  font-size: 20pt;
+  letter-spacing: 0.12em;
+  font-family: rubik;
+  width: 500px;
+  border-radius: 10px;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+}
+p{
+   
+    font-size: 23px;
+}
+
+img{
+  border-radius: 60%;
+  width: 200px;
+  height: 200px;
+}
+
+a{
+   text-decoration: none;
+   color: white;
+   letter-spacing: 0em;
+   font-size: 18pt;
+}
+
+.footer{
+   text-align: center;
+   color: white;
+   font-family: segoe ui;
+   margin-top: 85px;              
+}
+
+a img{
+    border-radius: 5%;
+    width: 40px;
+    height: 40px;
+}
+
+.social{
+    letter-spacing: 0.2em;
+}
